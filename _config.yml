@@ -22,7 +22,7 @@ description: Tulane University
 navbar-links:
   Syllabus: "syllabus"
   Schedule and Assignments: "schedule"
-  Community Partners: ".partners"
+  Community Partners: "partners"
   Past Projects: "./projects/projects"
   Links & Resources: "resources"
 
